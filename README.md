@@ -1,2 +1,2 @@
 # delta-practice
-for Understanding the concepts of Git &amp; Github.
+for Understanding the concepts of git &amp; github.
